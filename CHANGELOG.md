@@ -1,3 +1,10 @@
+## [5.0.2](https://github.com/appium/appium-safari-driver/compare/v5.0.1...v5.0.2) (2026-06-19)
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @types/node from 25.9.4 to 26.0.0 ([#171](https://github.com/appium/appium-safari-driver/issues/171)) ([74f706e](https://github.com/appium/appium-safari-driver/commit/74f706e993d3db653ac0eed6472941b0c05e5292))
+* **deps:** bump actions/checkout from 6 to 7 ([#172](https://github.com/appium/appium-safari-driver/issues/172)) ([a146ab1](https://github.com/appium/appium-safari-driver/commit/a146ab1bf2c6f94e8794a035c7f2ac6db4f86eed))
+
 ## [5.0.1](https://github.com/appium/appium-safari-driver/compare/v5.0.0...v5.0.1) (2026-06-14)
 
 ### Bug Fixes
